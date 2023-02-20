@@ -1,2 +1,2 @@
 
-# mciskola.aternos.me
+# 0.tcp.eu.ngrok.io:18226

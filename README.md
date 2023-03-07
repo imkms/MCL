@@ -1,4 +1,4 @@
-# IP: 0.tcp.eu.ngrok.io:19336
+# IP: 7.tcp.eu.ngrok.io:19276
 
 # Használati útmutató ha nem működik, mert idióta vagy:
 1. Lépj be az "Eredeti" mappába és telepítsd az "Minecraft"-ot, nem kell bejelentkezni.

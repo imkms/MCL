@@ -1,4 +1,4 @@
-# IP: cosm1c.ddns.net0.0.0.0
+# IP: cosm1c.ddns.net
 
 # Használati útmutató ha nem működik, mert idióta vagy:
 1. Lépj be az "Eredeti" mappába és telepítsd az "Minecraft"-ot, nem kell bejelentkezni.

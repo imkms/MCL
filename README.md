@@ -7,3 +7,6 @@
 
 # Steam
 1. install.bat
+2. A installaciot D: valahova telepitsd
+3. Miutan kesz tedd at valahova C: re
+4. steam.exet intisd el

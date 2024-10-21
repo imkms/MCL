@@ -11,7 +11,12 @@
 3. Miutan kesz tedd at valahova C: re
 4. steam.exet intisd el
 
-5. # Transformice
-6. transformice.exe
+# Transformice
+1. transformice.exe
 
-   
+# Roblox
+1. RobloxPlayerInstaller.exe
+
+# Minecraft - UPDATE
+1. UltimMC (cracked)
+

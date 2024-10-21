@@ -1,4 +1,4 @@
-# IP: -
+# IP: -7266706046332126318
 
 # Minecraft
 1. Lépj be az "Eredeti" mappába és telepítsd az "Minecraft"-ot, nem kell bejelentkezni.

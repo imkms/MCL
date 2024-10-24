@@ -1,22 +1,29 @@
 # IP: -7266706046332126318
 
 # Minecraft
-1. Lépj be az "Eredeti" mappába és telepítsd az "Minecraft"-ot, nem kell bejelentkezni.
-2. Lépj be az "Cracked" mappába és indítsd el a "CMCL"-t
-3. Kész 
+1. Cracked
+   - UltimMC
+   - MinecraftSP
+   - SKLauncher
+3. Eredeti
+   - Minecraft Launcher
+   - 
+# Minecraft Mods 
+1. 1.21.3 Mods
+2. 1.20.6 Mods (Soon)
 
-# Steam
-1. install.bat
-2. A installaciot D: valahova telepitsd
-3. Miutan kesz tedd at valahova C: re
-4. steam.exet intisd el
-
-# Transformice
-1. transformice.exe
+# Minecraft Server
+1. Minecraft Server 21w18a
+2. Minecraft Server 1.21.3 (soon)
+3. Minecraft Server 1.20.6 (soon)
+4. Minecraft Server 1.12.2 (soon)
 
 # Roblox
 1. RobloxPlayerInstaller.exe
 
-# Minecraft - UPDATE
-1. UltimMC (cracked)
+# Steam
+1. Install.bat
+
+# Transformice
+1. Transformice.exe
 

@@ -1,5 +1,4 @@
-# IP: 10.1.10.11:22
-
+# IP: 213.181.203.206:20022
 # Minecraft
 1. Cracked
    - UltimMC

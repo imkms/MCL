@@ -4,6 +4,7 @@
    - UltimMC
    - MinecraftSP
    - SKLauncher
+   - ATLauncher
 2. Eredeti
    - Minecraft Launcher
 

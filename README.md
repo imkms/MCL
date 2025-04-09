@@ -1,4 +1,4 @@
-# IP: 213.181.203.206:20022
+# Java: https://jdk.java.net/24/
 # Minecraft
 1. Cracked
    - UltimMC
